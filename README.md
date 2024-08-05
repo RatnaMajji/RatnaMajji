@@ -4,19 +4,19 @@
 I'm an experienced Software Development Engineer with a strong background in full-stack development and cloud computing. Currently pursuing my Masters in Computer Science, I'm passionate about leveraging technology to solve real-world problems.
 
 ## 🚀 Experience
-- **Software Development Engineer at Government of Andhra Pradesh (Oct 2019 - Dec 2022)**
-  - Developed and maintained multiple large-scale web and mobile applications for various government departments.
-  - Worked on critical projects including financial management systems, housing applications, online tax payment systems, and a COVID-19 management system.
-  - Utilized a diverse tech stack including Java, Spring Boot, React, Angular, Node.js, and various databases.
-  - Implemented microservices architectures, RESTful APIs, and leveraged cloud technologies (AWS, Azure).
 
-- **Intern, Software Developer at GE HealthCare (May 2023 - Aug 2023)**
-  - Built GE Healthcare infrastructure on AWS Cloud platform.
-  - Developed converters for healthcare data standards (HL7V2 to FHIR).
-  - Implemented infrastructure as code using AWS CDK.
+### Software Development Engineer, Govt. of Andhra Pradesh (Oct 2019 - Dec 2022)
+- Developed large-scale web/mobile apps for government departments
+- Led critical projects: financial systems, housing apps, tax payments, COVID-19 management
+- Tech: Java, Spring Boot, React, Angular, Node.js, microservices, RESTful APIs, AWS, Azure
 
-- **Intern, Software Engineer at KPMG (Jul 2018 - Dec 2018)**
-  - Gained experience in software development and cloud technologies.
+### Intern, Software Developer, GE HealthCare (May 2023 - Aug 2023)
+- Built AWS Cloud infrastructure for GE Healthcare
+- Developed HL7V2 to FHIR converters
+- Implemented infrastructure as code using AWS CDK
+
+### Intern, Software Engineer, KPMG (Jul 2018 - Dec 2018)
+- Gained experience in software development and cloud technologies
 
 ## 👀 I'm interested in ...
 Full-stack development, cloud computing, AI/ML integration, IoT, and blockchain technology.
