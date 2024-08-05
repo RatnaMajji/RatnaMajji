@@ -41,10 +41,56 @@ He/Him
 - Love solving complex algorithmic problems in my free time
 
 ## 🛠️ Tech Stack
-Languages: Java, C/C++, Python, JavaScript, TypeScript, Kotlin, HTML/CSS
-Databases: PostgreSQL, MongoDB, MySQL, Firebase, T-SQL, Azure, AWS
-Frameworks/Libraries: Spring Boot, Express.js, Node.js, ReactJS, Material-UI, Hadoop
-Tools: Git, JMeter, CI/CD, Docker, Agile, SCRUM, JIRA
+
+### Languages
+☕ Java | 🐍 Python | 🌐 JavaScript | 📜 TypeScript | 📱 Kotlin | 🖥️ C/C++ | 🎨 HTML/CSS | 🔢 SQL | 🦀 Rust | 🟦 Go
+
+### Frameworks & Libraries
+#### Backend
+🍃 Spring Boot | 🚂 Express.js | 🟢 Node.js | 🔸 NestJS | 🐍 Django | 🌶️ Flask | 🚀 FastAPI
+
+#### Frontend
+⚛️ React.js | 🅰️ Angular | 🖖 Vue.js | 🎭 Next.js | 📱 React Native | 🧪 Redux | 🎨 Material-UI | 💨 Tailwind CSS
+
+#### Data Processing
+🐘 Hadoop | 🌪️ Apache Spark | 🔥 Apache Flink | 🐿️ Apache Kafka
+
+### Databases
+#### Relational
+🐘 PostgreSQL | 🐬 MySQL | 🔵 Oracle | 🎩 Microsoft SQL Server | 🗄️ SQLite
+
+#### NoSQL
+🍃 MongoDB | 🔥 Firebase | 📊 Cassandra | 🏛️ Couchbase | 🔑 Redis
+
+### Cloud Platforms
+☁️ AWS | 🌐 Azure | ☁️ Google Cloud Platform | ☁️ Heroku | ☁️ DigitalOcean
+
+### DevOps & CI/CD
+🐳 Docker | 🎡 Kubernetes | 🌿 Git | 🔄 Jenkins | 🔁 GitLab CI | 🔧 Travis CI | 🐙 GitHub Actions
+
+### Testing
+🧪 JUnit | 🃏 Jest | 🎭 Mocha | 🐍 Pytest | 🤖 Selenium | 🧰 Postman
+
+### Project Management & Collaboration
+📊 JIRA | 📋 Trello | 💬 Slack | 🗂️ Confluence | 📅 Microsoft Teams
+
+### IDEs & Text Editors
+🖥️ IntelliJ IDEA | 🌟 VS Code | 🌙 Eclipse | 🧠 PyCharm | 🔬 Android Studio | 🖋️ Sublime Text
+
+### Other Tools & Technologies
+🧪 JMeter | 🏃‍♂️ Agile/SCRUM | 🐧 Linux | 🔒 OAuth 2.0 | 🔐 JWT | 🌐 RESTful APIs | 🔌 GraphQL | 📡 WebSockets
+
+### Version Control
+🌿 Git | 🐙 GitHub | 🦊 GitLab | 🪣 Bitbucket
+
+### Architecture & Design Patterns
+🏗️ Microservices | 🏛️ Monolithic | 🎭 MVC | 🏭 Factory Pattern | 🔄 Observer Pattern | 🚡 Singleton
+
+### Data Formats
+📄 JSON | 🏷️ XML | 📦 YAML | 📊 CSV
+
+### Other Concepts
+🧠 Machine Learning | 🤖 AI | 🔗 Blockchain | 🌐 IoT | 🔐 Cybersecurity | 🚀 Serverless Computing
 
 ## 🎓 Education
 - Masters in Computer Science from Wichita State University (GPA: 4.0/4.0)
